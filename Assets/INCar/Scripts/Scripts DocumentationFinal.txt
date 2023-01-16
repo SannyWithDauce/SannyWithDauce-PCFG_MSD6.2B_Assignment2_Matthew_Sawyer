@@ -1,0 +1,21 @@
+                 Welcome in CarController Documentation:
+
+
+
+SteeringWheel:
+-This script is responsible for steering wheel revolutions
+
+SpeedMeter:
+-This script is responsible for speedMeter revolutions
+
+RPM:
+-This script is responsible for RPM arrow rotation
+
+CarController:
+-Thanks to Car Controller script car can drive.
+In this script we have 10 elements to adjust. First four elements are concerning Tyre Colliders.
+Another four means Tyres transforms. The last 2 elements are Max Steering Angle and Motor Force.
+
+Camera Script:
+-This script is responsible for camera movement during being in play mode. Object to follow means transform
+of followed object. Offset determines start offset of camera. Then we have Follow speed and Lookspeed.
